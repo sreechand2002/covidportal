@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  justify-content: start;
+}
+
+.res {
+  margin: 10%;
+  background-color: firebrick;
+  padding: 10%;
+}
+
+.res > button {
+  margin: 0.8rem;
+}
